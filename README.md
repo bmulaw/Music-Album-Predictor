@@ -12,7 +12,7 @@ Channel Orange: {Thinkin’ Bout You, Sweet Life, Forrest Gump, Lost, Bad Religi
 I then provided three songs to test the accuracy of the model (Pyramid from Channel Orange, Sierra Leone from Channel Orange, and Nights from Blonde). The algorithm
 works well enough to correctly determine which album those three songs are from. 
 
-I attached Prince's Purple Rain, and Bryson Tiller's Trapsoul albums. Feel free to try out your own txt files of different albums and test if the model can determine which
+I have also attached Prince's Purple Rain, and Bryson Tiller's Trapsoul albums. Feel free to try out your own txt files of different albums and test if the model can determine which
 album the excluded song belongs to; or to test where it would think a song from a different album would fit into.
 
 
